@@ -1,1 +1,1 @@
-# brightpass
+- Oyun çevirisi
